@@ -1,3 +1,3 @@
 # Github Sandbox
 
-A place to play around testing things with Git and Github.
+A repository to play around testing things with Git and Github.
