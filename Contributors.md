@@ -1,5 +1,5 @@
 ## Contributors
 
-Add your name here and makeby suggest I gix my spelling
+Add your name here and maybe suggest I gix my spelling
 
-Mahesh.
+Mahesh Binzer-Panchal
